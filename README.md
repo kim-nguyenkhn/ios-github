@@ -1,2 +1,6 @@
 # ios-github
-An iOS implementation of a Github client.
+Leverages the GitHub API to query repositories and list their respective information in table views.
+
+## Futures
+
+* Implement filtering by stars, coding language, relevance...
